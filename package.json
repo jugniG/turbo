@@ -2,7 +2,7 @@
   "name": "kitchen-sink",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "npm@1.13.",
+  "packageManager": "npm@1.13.0",
   "scripts": {
     "build": "turbo run build",
     "clean": "turbo run clean",
